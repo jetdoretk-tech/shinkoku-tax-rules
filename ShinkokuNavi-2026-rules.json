@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-23-reviewed-snapshot",
+  "taxYears": {
+    "2025": {
+      "basic": [
+        [
+          1320000,
+          950000
+        ],
+        [
+          3360000,
+          880000
+        ],
+        [
+          4890000,
+          680000
+        ],
+        [
+          6550000,
+          630000
+        ],
+        [
+          23500000,
+          580000
+        ],
+        [
+          24000000,
+          480000
+        ],
+        [
+          24500000,
+          320000
+        ],
+        [
+          25000000,
+          160000
+        ],
+        [
+          999999999,
+          0
+        ]
+      ],
+      "salaryMinimum": 650000,
+      "brackets": [
+        [
+          1950000,
+          0.05,
+          0
+        ],
+        [
+          3300000,
+          0.1,
+          97500
+        ],
+        [
+          6950000,
+          0.2,
+          427500
+        ],
+        [
+          9000000,
+          0.23,
+          636000
+        ],
+        [
+          18000000,
+          0.33,
+          1536000
+        ],
+        [
+          40000000,
+          0.4,
+          2796000
+        ],
+        [
+          999999999,
+          0.45,
+          4796000
+        ]
+      ],
+      "verifiedAt": "2026-10-23",
+      "sources": [
+        "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1199.htm",
+        "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2260.htm"
+      ]
+    },
+    "2026": {
+      "basic": [
+        [
+          4890000,
+          1040000
+        ],
+        [
+          6550000,
+          670000
+        ],
+        [
+          23500000,
+          620000
+        ],
+        [
+          24000000,
+          480000
+        ],
+        [
+          24500000,
+          320000
+        ],
+        [
+          25000000,
+          160000
+        ],
+        [
+          999999999,
+          0
+        ]
+      ],
+      "salaryMinimum": 740000,
+      "brackets": [
+        [
+          1950000,
+          0.05,
+          0
+        ],
+        [
+          3300000,
+          0.1,
+          97500
+        ],
+        [
+          6950000,
+          0.2,
+          427500
+        ],
+        [
+          9000000,
+          0.23,
+          636000
+        ],
+        [
+          18000000,
+          0.33,
+          1536000
+        ],
+        [
+          40000000,
+          0.4,
+          2796000
+        ],
+        [
+          999999999,
+          0.45,
+          4796000
+        ]
+      ],
+      "verifiedAt": "2026-10-23",
+      "sources": [
+        "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1199.htm",
+        "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2260.htm"
+      ]
+    }
+  },
+  "nhiYears": {
+    "2026": {
+      "location": "豊中市",
+      "medical": {
+        "rate": 0.095,
+        "person": 34990,
+        "house": 33908,
+        "cap": 660000
+      },
+      "support": {
+        "rate": 0.0306,
+        "person": 11191,
+        "house": 10845,
+        "cap": 260000
+      },
+      "care": {
+        "rate": 0.026,
+        "person": 18682,
+        "house": 0,
+        "cap": 170000
+      },
+      "children": {
+        "rate": 0.0028,
+        "personAdult": 1841,
+        "cap": 30000
+      },
+      "verifiedAt": "2026-10-23",
+      "sources": [
+        "https://www.city.toyonaka.osaka.jp/kenko/kokuho/kanyuu/ahokenryokeisan.html"
+      ]
+    }
+  },
+  "pensionYears": {
+    "2025": {
+      "monthly": 17510,
+      "verifiedAt": "2026-10-23",
+      "sources": [
+        "https://www.nenkin.go.jp/service/kokunen/hokenryo/hokenryo.html"
+      ]
+    },
+    "2026": {
+      "monthly": 17920,
+      "verifiedAt": "2026-10-23",
+      "sources": [
+        "https://www.nenkin.go.jp/service/kokunen/hokenryo/hokenryo.html"
+      ]
+    },
+    "2027": {
+      "monthly": 18290,
+      "verifiedAt": "2026-10-23",
+      "sources": [
+        "https://www.nenkin.go.jp/service/kokunen/hokenryo/hokenryo.html"
+      ]
+    }
+  },
+  "verifiedAt": "2026-10-23"
+}
